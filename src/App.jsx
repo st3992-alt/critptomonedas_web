@@ -1,9 +1,9 @@
+import Formulario from './components/Formulario';
 
 function App() {
   return (
     <main className="container">
-      <h1>Hello World!</h1>
-      <p>Welcome to my cryptocurrency project.</p>
+      <Formulario />
     </main>
   );
 }
